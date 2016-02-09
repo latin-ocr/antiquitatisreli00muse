@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "antiquitatisreli00muse_0323.png"; bbox 0 0 2395 3888; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 751 997 1658 1014">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 751 997 1658 1014">
+     <span class='ocr_line' id='line_1_1' title="bbox 751 997 1658 1014; baseline 0.01 -11"><span class='ocrx_word' id='word_1_1' title='bbox 751 997 1658 1014; x_wconf 53' lang='lat' dir='ltr'><strong><em>“Ill“‘&#39;l“‘z&#39;1‘t&#39;l‘l¹“l“ae‘alaeaeaeaelt‘e‘l‘l‘t‘l‘ae‘&#39;‘ll“‘llj</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1041 1006 1651 1022">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1041 1006 1651 1022">
+     <span class='ocr_line' id='line_1_2' title="bbox 1041 1006 1651 1022; baseline 0.011 -8"><span class='ocrx_word' id='word_1_2' title='bbox 1041 1006 1651 1022; x_wconf 46' lang='lat'><strong><em>2555““‘&#39;“““““¹“““¹“¹1“¹¹¹““</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 334 2210 899 2250">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 334 2210 899 2250">
+     <span class='ocr_line' id='line_1_3' title="bbox 334 2210 888 2237; baseline -0.013 -4"><span class='ocrx_word' id='word_1_3' title='bbox 334 2210 888 2237; x_wconf 59' lang='lat'><strong><em>&#39;¹“““5555555555555525552555555533</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 334 2224 899 2250; baseline -0.011 1"><span class='ocrx_word' id='word_1_4' title='bbox 334 2224 899 2250; x_wconf 57' lang='lat'><strong><em>33333325555552555555555555525555511‘</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 298 883 1670 2875">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 298 883 1670 2875">
+     <span class='ocr_line' id='line_1_5' title="bbox 298 883 1670 2875; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 298 883 1670 2875; x_wconf 95' lang='lat' dir='ltr'><strong><em> </em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
